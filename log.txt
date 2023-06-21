@@ -1,0 +1,13 @@
+
+commit 655d9352274b493d6efaa9a160e44f155cedf915 (HEAD -> master, origin/master)
+Author: Sergio_Guzman <sergioguz.89@gmail.com>
+Date:   Wed Jun 21 14:42:47 2023 -0300
+
+    Segundo commit para el archivo2.txt
+
+commit ecd0ecb5e86c091aae354c9c56191ed7ec48c8d9
+Author: Sergio_Guzman <sergioguz.89@gmail.com>
+Date:   Wed Jun 21 14:39:28 2023 -0300
+
+    commt del archivo de prueba
+
